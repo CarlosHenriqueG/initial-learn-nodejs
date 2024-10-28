@@ -12,3 +12,5 @@ Api criada 100% sem uso de Frameworks ou libs
 - Listagem usuários
 - Edição de usuários
 - Remoção de usuários
+
+Usando NodeJs: v20.17.0
